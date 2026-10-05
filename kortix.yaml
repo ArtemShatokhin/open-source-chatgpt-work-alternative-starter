@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://kortix.com/schema/kortix.v2.schema.json
+#
+# Kortix starter: an open source ChatGPT Work alternative you can run.
+kortix_version: 2
+
+default_agent: assistant
+
+project:
+  name: chatgpt-work-starter
+  description: Open source Kortix starter with one role agent, one skill and a memory folder.
+
+env:
+  optional:
+    - OPENAI_API_KEY
+    - ANTHROPIC_API_KEY
+    - DAYTONA_API_KEY
+
+runtime: opencode
+
+agents:
+  assistant:
+    file: agents/assistant.md
+    skills:
+      - weekly-report
+    # Memory is a folder in this repo: memory/. Agents read it and append to it.
+    workspace: branch
+
+# Connectors, triggers and sandbox templates are left out of this starter.
+# Add them as the project needs them; see the Kortix docs.

@@ -51,3 +51,7 @@ Kortix is open source (Elastic License 2.0) — self-host, read and modify the c
 ## Further reading on the companion site
 
 If you are weighing the move, the companion site has a plain-language walkthrough of [why teams pick an open source ChatGPT Work alternative](https://chatgptworkalternative.com/open-source-chatgpt-work-alternative.html) and a longer rundown of [ChatGPT Work alternatives](https://chatgptworkalternative.com/chatgpt-work-alternatives.html) for different team sizes. For the product itself, start with [Kortix](https://kortix.com), then [Read the docs](https://kortix.com/docs) for the full command surface. The code is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+
+## What the companion site now covers
+
+Five operational pages sit alongside the pages linked above: [pricing and what you actually pay for](https://chatgptworkalternative.com/pricing.html), a step-by-step [migration from ChatGPT Work](https://chatgptworkalternative.com/migrate-from-chatgpt-work.html), [running any model with your own keys](https://chatgptworkalternative.com/models-and-your-keys.html), [connectors and automation](https://chatgptworkalternative.com/connectors-and-automation.html), and [governance and permissions](https://chatgptworkalternative.com/governance-and-permissions.html) for teams that need per-tool approval gates.

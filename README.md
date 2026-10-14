@@ -1,6 +1,6 @@
 # Open source Kortix starter: a ChatGPT Work alternative you can run
 
-Kortix is the open-source AI Management System, and this repository is a starter you can run: one manifest, one role agent, one skill and a memory folder, all plain files in a git repo you own. Kortix is the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work.
+Kortix is the open-source AI Operating System, and this repository is a starter you can run: one manifest, one role agent, one skill and a memory folder, all plain files in a git repo you own. Kortix is the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work.
 
 An agent is a Markdown file, and so is a skill. Memory is a folder that accumulates. `kortix.yaml` wires them together and sets what the agent may reach. Change any of it with a pull request, then review the diff.
 
@@ -37,16 +37,16 @@ kortix cr merge 1
 
 | System | Open source | Models | Where it runs |
 |---|---|---|---|
-| Kortix | Yes, Elastic License 2.0 | Any provider, your own keys | Your cloud, VPC, on-prem or Kortix Cloud |
+| Kortix | Yes. Read it, fork it, audit it. | Any provider, your own keys | Your cloud, VPC, on-prem or Kortix Cloud |
 | ChatGPT Work | No | GPT-6 only | OpenAI's cloud, through OpenAI's apps |
 
 ChatGPT Work is an agent inside ChatGPT that OpenAI launched on July 9, 2026 ([OpenAI's announcement](https://openai.com/index/chatgpt-for-your-most-ambitious-work)). It takes action across connected apps, runs scheduled tasks, and works on web, mobile and desktop. It runs on OpenAI's cloud, uses OpenAI's models, and its configuration lives in OpenAI's product. Kortix keeps the same kind of work in files you own: agents, skills, memory and connector config in one repo, any model with your own keys, and a change request a person reviews before anything reaches the default branch.
 
 `docs/chatgpt-work-vs-kortix.md` compares the two in detail.
 
-## Self-hosting and licence
+## Self-hosting
 
-Kortix is open source (Elastic License 2.0) — self-host, read and modify the code. Run it on a laptop, a VPS, your VPC or on-prem, or use managed cloud. `docs/self-hosting.md` covers the Docker Compose stack and where agent sessions run.
+Kortix is open source — self-host, read and modify the code. Run it on a laptop, a VPS, your VPC or on-prem, or use managed cloud. `docs/self-hosting.md` covers the Docker Compose stack and where agent sessions run.
 
 ## Further reading on the companion site
 
@@ -55,3 +55,6 @@ If you are weighing the move, the companion site has a plain-language walkthroug
 ## What the companion site now covers
 
 Five operational pages sit alongside the pages linked above: [pricing and what you actually pay for](https://chatgptworkalternative.com/pricing.html), a step-by-step [migration from ChatGPT Work](https://chatgptworkalternative.com/migrate-from-chatgpt-work.html), [running any model with your own keys](https://chatgptworkalternative.com/models-and-your-keys.html), [connectors and automation](https://chatgptworkalternative.com/connectors-and-automation.html), and [governance and permissions](https://chatgptworkalternative.com/governance-and-permissions.html) for teams that need per-tool approval gates.
+
+
+New pages cover the questions teams ask before they move: [ChatGPT Work for teams](https://chatgptworkalternative.com/chatgpt-work-for-teams) on a shared setup the team owns and reviews, [ChatGPT Work data and privacy](https://chatgptworkalternative.com/chatgpt-work-data-and-privacy) on where the work and the configuration sit, [ChatGPT Work limitations](https://chatgptworkalternative.com/chatgpt-work-limitations) on the real limits of the hosted product, and a head-to-head [ChatGPT Work vs Gemini](https://chatgptworkalternative.com/chatgpt-work-vs-gemini). Two more comparisons sit alongside them: [ChatGPT Work vs Claude Cowork](https://chatgptworkalternative.com/chatgpt-work-vs-claude-cowork) and [ChatGPT Work vs Microsoft Copilot](https://chatgptworkalternative.com/chatgpt-work-vs-copilot), with a short answer to [is ChatGPT Work open source](https://chatgptworkalternative.com/is-chatgpt-work-open-source).

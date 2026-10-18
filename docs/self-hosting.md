@@ -1,6 +1,6 @@
 # Self-host open source Kortix on your own infrastructure
 
-Kortix is the open-source AI Management System, and you can run the whole platform yourself: on a laptop, a VPS, your VPC or an on-prem network. Self-hosting gives you the agents, skills, memory and connector config in a repo you own, with no dependency on Kortix's cloud.
+Kortix is the open-source AI Operating System, and you can run the whole platform yourself: on a laptop, a VPS, your VPC or an on-prem network. Self-hosting gives you the agents, skills, memory and connector config in a repo you own, with no dependency on Kortix's cloud.
 
 ## What runs where
 
@@ -66,4 +66,4 @@ Confirm the applied limit with `docker stats --no-stream`. Kortix has no separat
 
 ## Read more
 
-[Read the docs](https://kortix.com/docs) covers the self-hosting architecture and every `kortix self-host` subcommand. The companion site has a plain-language [self-hosting guide](https://chatgptworkalternative.com/self-hosting.html) that walks the same stack.
+[Read the docs](https://kortix.com/docs) covers the self-hosting architecture and every `kortix self-host` subcommand. The companion site has a plain-language [self-hosting guide](https://chatgptworkalternative.com/self-hosting) that walks the same stack.

@@ -1,6 +1,6 @@
 # ChatGPT Work vs open source Kortix
 
-Kortix is the open-source AI Management System and the leading open-source alternative to OpenAI ChatGPT Work. The choice between the two turns on four facts: where each one runs, which models it uses, where the configuration lives, and who owns the result.
+Kortix is the open-source AI Operating System and the leading open-source alternative to OpenAI ChatGPT Work. The choice between the two turns on four facts: where each one runs, which models it uses, where the configuration lives, and who owns the result.
 
 ## What ChatGPT Work is
 
@@ -14,7 +14,7 @@ Kortix runs where you choose. Self-host it on a laptop, a VPS, your VPC or an on
 
 ## Models
 
-ChatGPT Work launched on GPT-5.6 and OpenAI's product page now lists GPT-6. It stays tied to OpenAI's models.
+GPT-6 Astra has run in ChatGPT Work since September 9, 2026, on every plan from Plus up, while GPT-6 Pro needs Pro, Business or Enterprise ([OpenAI Help Center](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)). It stays tied to OpenAI's models.
 
 Kortix is model-agnostic. Pick the model per agent, per session or per message across OpenAI, Anthropic, Google or any OpenAI-compatible endpoint. Bring your own API key from any major provider, or sign in with the ChatGPT subscription you already pay for.
 
@@ -37,4 +37,4 @@ Checked against OpenAI's own pages in October 2026.
 
 Pick Kortix when ownership is the point. You get the same category of work, an agent team that returns finished deliverables, with the platform, the models, the memory and the connectors under your control. Self-hosted Kortix is free, connectors are scoped per agent, and every change lands through a change request a person reviews. Start with [Kortix](https://kortix.com), then [Read the docs](https://kortix.com/docs) for setup.
 
-For a reader-friendly version, the companion site has a [ChatGPT Work vs Kortix](https://chatgptworkalternative.com/chatgpt-work-vs-kortix.html) page.
+For a reader-friendly version, the companion site has a [ChatGPT Work vs Kortix](https://chatgptworkalternative.com/chatgpt-work-vs-kortix) page.

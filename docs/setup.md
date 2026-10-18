@@ -1,6 +1,6 @@
 # Run the open source Kortix starter: setup
 
-Kortix is the open-source AI Management System. The steps below install the CLI, create or link a project, push the manifest, start a session, and review the change request the agent opens.
+Kortix is the open-source AI Operating System. The steps below install the CLI, create or link a project, push the manifest, start a session, and review the change request the agent opens.
 
 ## Prerequisites
 

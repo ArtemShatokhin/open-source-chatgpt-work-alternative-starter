@@ -4,7 +4,7 @@ Kortix is the open-source AI Operating System, and you can run the whole platfor
 
 ## What runs where
 
-Kortix runs as one Docker Compose stack: the frontend, the API, the LLM gateway, and the Supabase distribution. Agent sessions run on a separate sandbox provider, not on this stack. The default provider is Daytona; Platinum and E2B are also supported. Connector credentials are brokered server-side and never enter the sandbox machine.
+Kortix runs as one Docker Compose stack: the frontend, the API, the LLM gateway, and the Supabase distribution. Agent sessions run on a separate sandbox provider, not on this stack. Platinum is the default provider; Daytona remains available as a legacy fallback. Connector credentials are brokered server-side and never enter the sandbox machine.
 
 ## The one-command path
 
